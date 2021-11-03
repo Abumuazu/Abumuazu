@@ -73,11 +73,11 @@ I Spend most of time coding outstanding projects capitalizing on exceptional use
 
 <!--START_SECTION:waka-->
 ```text
-TypeScript      9 hrs 58 mins   ███████████▓░░░░░░░░░░░░░   46.57 % 
-JavaScript      8 hrs 48 mins   ██████████▒░░░░░░░░░░░░░░   41.15 % 
-JSON            1 hr 9 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
-CSS             1 hr 6 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
-Apache Config   10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
+JavaScript      7 hrs 39 mins   █████████████▓░░░░░░░░░░░   54.39 % 
+TypeScript      3 hrs 41 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.17 % 
+CSS             1 hr 22 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.81 % 
+JSON            57 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.83 % 
+Apache Config   10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
 ```
 <!--END_SECTION:waka-->
 
