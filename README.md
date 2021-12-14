@@ -73,11 +73,11 @@ I Spend most of time coding outstanding projects capitalizing on exceptional use
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   11 hrs 53 mins  ██████████████░░░░░░░░░░░   55.97 % 
-YAML         3 hrs 19 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.61 % 
-JSON         2 hrs 17 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.80 % 
-Bash         57 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
-XML          54 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
+JavaScript   7 hrs 18 mins   ████████████▒░░░░░░░░░░░░   49.79 % 
+YAML         3 hrs 25 mins   ██████░░░░░░░░░░░░░░░░░░░   23.35 % 
+JSON         49 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
+XML          49 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.62 % 
+Java         42 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.86 % 
 ```
 <!--END_SECTION:waka-->
 
