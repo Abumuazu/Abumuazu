@@ -73,7 +73,7 @@ I Spend most of time coding outstanding projects capitalizing on exceptional use
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   28 mins         ████████████████████████▓   98.05 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
