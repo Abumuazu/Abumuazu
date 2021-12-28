@@ -73,8 +73,9 @@ I Spend most of time coding outstanding projects capitalizing on exceptional use
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   5 mins          █████████████████▓░░░░░░░   70.84 % 
-HTML         2 mins          ███████▒░░░░░░░░░░░░░░░░░   29.16 % 
+HTML         1 hr 52 mins    ███████████████████▓░░░░░   78.65 % 
+CSS          24 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.25 % 
+JavaScript   5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
 ```
 <!--END_SECTION:waka-->
 
