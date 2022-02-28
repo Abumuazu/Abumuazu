@@ -72,9 +72,11 @@ I Spend most of time coding outstanding projects capitalizing on exceptional use
 #### Coding Stats
 
 <!--START_SECTION:waka-->
+
 ```text
-No Activity tracked this Week
+No activity tracked
 ```
+
 <!--END_SECTION:waka-->
 
 #### Github Stats
